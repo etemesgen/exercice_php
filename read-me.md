@@ -57,6 +57,8 @@ Les données du tableau doivent être injectées par un tableau PHP. Exemple ci-
 * Vous devez créer un répertoire pour les fichier d'inclusion
 * Durée du développement 2 heures
 
+Voir l'affichage de la page : [maquette html](https://giusmili.github.io/exercice_php/index.html "Page en html")
+
 **Auteur**: _Militello_ _Giuseppe_ _2020_
         
 
