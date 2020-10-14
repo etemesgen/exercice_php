@@ -6,7 +6,7 @@ Avant de commencer il faudrait faire soit un clone de ce repository soit un fork
 ## Ce repository contient
 Une page html déjà mise en forme qui affiche dans un tableau des statistiques des langages de programmation.
 
-## Votre travail
+## Votre mission, toujours si vous l'acceptez
 Cela consiste à transformer ce fichier statique en fichier dynamique: créer un système de fichiers d'inclusion comme vu en cours :
 ```html
 <!DOCTYPE html>
